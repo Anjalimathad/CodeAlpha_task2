@@ -9,8 +9,6 @@ By cleaning and exploring the dataset, we aim to identify trends and insights th
 
 # 📉 Unemployment Analysis in India  
 
-```markdown
-
 # Unemployment Analysis in India  
 
 ## Objective  
