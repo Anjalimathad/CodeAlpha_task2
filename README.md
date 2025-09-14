@@ -7,10 +7,11 @@ By cleaning and exploring the dataset, we aim to identify trends and insights th
 
 
 
-# 📉 README for Unemployment Analysis in India  
+# 📉 Unemployment Analysis in India  
 
 ```markdown
-# 📉 Unemployment Analysis in India  
+
+# Unemployment Analysis in India  
 
 ## Objective  
 Analyze Indian unemployment data to understand **Covid-19 impact, seasonal variations, and state-wise unemployment rates**.  
